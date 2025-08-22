@@ -5,7 +5,7 @@
 ![spaCy](https://img.shields.io/badge/spaCy-3.7.2-brightgreen?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHptLTUuNS04YzAtLjgyLjgxLTEuNSAxLjgxLTEuNXMyLjE5LjY4IDIuMTkgMS41YzAgLjY1LS40NCAxLjE5LTEuMDUgMS40bC0xLjA0LjM1Yy0xLjU1LjUzLTEuNTIgMi4xMi0xLjUyIDIuMjVoMS41YzAtLjQxLjA2LTEuMDUtLjA5LTEuMTZsMS4xNi0uMzljLjgyLS4yOCAxLjQ4LS45NSAxLjQ4LTEuODVjMC0xLjM4LTEuNDYtMi41LTMuMjUtMi41UzYuNSAxMC42MiA2LjUgMTJ6bTYuNzUgNC4yNWMwIC40MS0uMzQgLjc1LS43NS43NVMxMS43NSAxNi42NiAxMS43NSAxNi4yNXYtMS41YzAtLjQxLjM0LS43NS43NS0uNzVzLjc1LjM0Ljc1Ljc1djEuNXoiLz48L3N2Zz4=)
 ![Pandas](https://img.shields.io/badge/Pandas-2.1.3-yellow?style=for-the-badge&logo=pandas)
 
-> A complete, end-to-end data pipeline that runs entirely on a local machine. This project serves as a hands-on guide to understand the entire lifecycle of data—from ingestion and processing to analysis and visualization—without requiring any cloud services.
+> A complete, end-to-end data pipeline that runs entirely on a local machine. This project serves as a hands-on guide to understand the entire lifecycle of data from ingestion and processing to analysis and visualization without requiring any cloud services.
 
 ## 🏛️ Project Architecture
 
